@@ -1,2 +1,4 @@
-# countdown_timer using Python features included Reset/Stop Pause/Resume.
+# Countdown_timer 
+#Language -  Python
+#Features - Reset/Stop and Pause/Resume.
 #Library used Tkinter.
